@@ -42,5 +42,12 @@ export const projects = [
     description: "A classic Tic Tac Toe game where two players can play against each other in a simple and interactive interface.",
     img: tictactoeImg,
     link: "#"
-  }
+  },
+  {
+    title: "Expense Tracker",
+    description: "An application to help users track their expenses and manage their budget effectively.",
+    img: "",
+    link: "#https://expensetracker-00.netlify.app/"
+  },
+
 ];
